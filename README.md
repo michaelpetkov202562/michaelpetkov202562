@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 👋
 
 <!--
 **michaelpetkov202562/michaelpetkov202562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
